@@ -1,0 +1,10 @@
+C:\Users\vanja\source\repos\GameProject_Aleksic\GameProject_Aleksic\bin\Debug\GameProject_Aleksic.exe.config
+C:\Users\vanja\source\repos\GameProject_Aleksic\GameProject_Aleksic\bin\Debug\GameProject_Aleksic.exe
+C:\Users\vanja\source\repos\GameProject_Aleksic\GameProject_Aleksic\bin\Debug\GameProject_Aleksic.pdb
+C:\Users\vanja\source\repos\GameProject_Aleksic\GameProject_Aleksic\obj\Debug\GameProject_Aleksic.csprojAssemblyReference.cache
+C:\Users\vanja\source\repos\GameProject_Aleksic\GameProject_Aleksic\obj\Debug\GameProject_Aleksic.Properties.Resources.resources
+C:\Users\vanja\source\repos\GameProject_Aleksic\GameProject_Aleksic\obj\Debug\GameProject_Aleksic.csproj.GenerateResource.cache
+C:\Users\vanja\source\repos\GameProject_Aleksic\GameProject_Aleksic\obj\Debug\GameProject_Aleksic.csproj.CoreCompileInputs.cache
+C:\Users\vanja\source\repos\GameProject_Aleksic\GameProject_Aleksic\obj\Debug\GameProject_Aleksic.exe
+C:\Users\vanja\source\repos\GameProject_Aleksic\GameProject_Aleksic\obj\Debug\GameProject_Aleksic.pdb
+C:\Users\vanja\source\repos\GameProject_Aleksic\GameProject_Aleksic\obj\Debug\GameProject_Aleksic.FormMain.resources
